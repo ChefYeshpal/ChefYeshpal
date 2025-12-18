@@ -11,4 +11,7 @@ Tech thingies:
 
 [![Website](https://img.shields.io/badge/Website-chefyeshpal.github.io-3D85C6?style=for-the-badge&logo=github&logoColor=white)](https://chefyeshpal.github.io)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChefYeshpal)](https://git.io/streak-stats)
+
+
 
